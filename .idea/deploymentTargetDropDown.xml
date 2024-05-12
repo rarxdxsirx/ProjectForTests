@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="MainActivityTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="testOnCleanTextClickClearsAllFields()">
+        <State />
+      </entry>
+      <entry key="testOnEqualsClickSetsResultAndClearsFields()">
+        <State />
+      </entry>
+      <entry key="testOnGetDataClickSetsFieldsFromDataModel()">
+        <State />
+      </entry>
+      <entry key="testOnSaveDataClickSetsSuccessMessageWhenSaveSuccessful()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
